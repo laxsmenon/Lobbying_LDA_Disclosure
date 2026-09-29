@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or the data it produces, please cite it as below."
+title: "tax-lobbying-lda: a reproducible pipeline for US tax lobbying disclosures"
+version: 0.1.0
+date-released: 2026-09-29
+authors:
+  - family-names: Menon
+    given-names: Lakshmi
+    affiliation: "School of Politics and International Relations, University College Dublin"
+license: MIT

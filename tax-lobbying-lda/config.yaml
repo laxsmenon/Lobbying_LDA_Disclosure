@@ -1,0 +1,10 @@
+# Settings for the taxlobby pipeline. Paths are relative to this folder.
+# Years to download / build / analyse. Earlier years improve revolver flags
+# (a covered post is disclosed only the first time a lobbyist works for a client).
+years: 2016-2019
+
+raw_dir: data/raw              # downloaded JSON-lines files (large; not in git)
+processed_dir: data/processed  # research dataset built from raw
+results_dir: results           # tables, charts, summary.md
+
+count_interns: false           # treat internships on the Hill as revolving-door posts?

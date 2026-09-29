@@ -1,0 +1,12 @@
+# data are large and rebuilt by the pipeline
+data/raw/
+data/processed/
+results/
+# never commit keys or local environments
+.env
+*.key
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy
+requests
+curl_cffi
+ftfy
+matplotlib
+pyyaml
+pytest

@@ -1,0 +1,386 @@
+{
+ "count": 19546,
+ "next": "https://lda.gov/api/v1/filings/?filing_period=first_quarter&filing_year=2017&page=2&page_size=2",
+ "previous": null,
+ "results": [
+  {
+   "url": "https://lda.gov/api/v1/filings/a7171be4-bd95-48ae-84f4-a8cb9b39c802/",
+   "filing_uuid": "a7171be4-bd95-48ae-84f4-a8cb9b39c802",
+   "filing_type": "RR",
+   "filing_type_display": "Registration",
+   "filing_year": 2017,
+   "filing_period": "first_quarter",
+   "filing_period_display": "1st Quarter (Jan 1 - Mar 31)",
+   "filing_document_url": "https://lda.gov/filings/public/filing/a7171be4-bd95-48ae-84f4-a8cb9b39c802/print/",
+   "filing_document_content_type": "text/html",
+   "income": null,
+   "expenses": null,
+   "expenses_method": null,
+   "expenses_method_display": null,
+   "posted_by_name": "Steve Clark",
+   "dt_posted": "2017-01-01T16:07:51-05:00",
+   "termination_date": null,
+   "registrant_country": "United States of America",
+   "registrant_ppb_country": null,
+   "registrant_address_1": "1101 K Street, NW",
+   "registrant_address_2": "Suite 650",
+   "registrant_different_address": null,
+   "registrant_city": "Washington",
+   "registrant_state": "DC",
+   "registrant_zip": "20005",
+   "registrant": {
+    "id": 76992,
+    "url": "https://lda.gov/api/v1/registrants/76992/",
+    "house_registrant_id": 36118,
+    "name": "CGCN GROUP, LLC",
+    "description": "Public Affairs Consultants",
+    "address_1": "1307 New York Ave., NW Suite 600",
+    "address_2": null,
+    "address_3": null,
+    "address_4": null,
+    "city": "Washington",
+    "state": "DC",
+    "state_display": "District of Columbia",
+    "zip": "20005",
+    "country": "US",
+    "country_display": "United States of America",
+    "ppb_country": "US",
+    "ppb_country_display": "United States of America",
+    "contact_name": "STEVE CLARK",
+    "contact_telephone": "+1 202-628-0028",
+    "dt_updated": "2026-07-12T16:09:24.002258-04:00"
+   },
+   "client": {
+    "id": 169786,
+    "url": "https://lda.gov/api/v1/clients/169786/",
+    "client_id": 1002995,
+    "name": "AMERICAN INVESTMENT COUNCIL (FKA \"PEGCC\")",
+    "general_description": "Advocacy and resource organization for the private investment industry.",
+    "client_government_entity": false,
+    "client_self_select": null,
+    "state": "DC",
+    "state_display": "District of Columbia",
+    "country": "US",
+    "country_display": "United States of America",
+    "ppb_state": "DC",
+    "ppb_state_display": "District of Columbia",
+    "ppb_country": "US",
+    "ppb_country_display": "United States of America",
+    "effective_date": "2017-01-01"
+   },
+   "lobbying_activities": [
+    {
+     "general_issue_code": "TAX",
+     "general_issue_code_display": "Taxation/Internal Revenue Code",
+     "description": "Tax issues affecting private equity and partnership, including tax reform.",
+     "foreign_entity_issues": null,
+     "lobbyists": [
+      {
+       "lobbyist": {
+        "id": 1190,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "STEVE",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "CLARK",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": null,
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 35500,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "GARY",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "LYTLE",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": null,
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 36872,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "SAM",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "GEDULDIG",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": "Director of Coalitions, House Financial Services Committee 2001-2003;\nSenior Advisor, Majority Whip Roy Blunt 2003-2006",
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 52875,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "DEBORAH",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "PRYCE",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": "Member of Congress (OH-15) 1993-2009",
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 54050,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "JAY",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "CRANFORD",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": "LC, Rep. Bob Barr, Jan 1997- Aug 1997;\nLA/Comm Director, Rep. Jim Gibbons Aug 1997-Sep 2000;\nStaff Director House Subcommittee on Energy May 2004-Mar 2006;; Policy Advisor, Majority Leader Boehner Mar 2006-Dec 2006;\nPolicy Advisor, Minority Leader Boehner Jan 2007-Dec 2010;\nAsst Policy Speaker Boehner Jan 2011-May 1, 2011",
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 58316,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "MIKE",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "NIELSEN",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": "Legislative Assistant, Sen. Robert F. Bennett 1999-2001;\nStaff Director Subcommittee Financial Institutions 2002-06;\nSenior Policy Advisor Sen. Robert F. Bennett 2007-10",
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 60672,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "AMY",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "WREN",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": "Staff assistant, Congressman Todd Tiahrt 1997-99;\nConference coordinator, House Republican Conference 1999-2000;\nOffice Manager, Majority Whip Tom Delay 2000-2003;; Finance Director, Majority Leader Tom Delay 2003-2005;\nCongressional liaison, US Trade & Development Agency 2006-2010",
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 61622,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "DOUGLAS",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "SCHWARTZ",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": "Policy Director/Counsel, Office of Conference Chairman 2009;\nDeputy Staff Director, Senate Republican Policy Committee 2009-2010;\nStaff Director, Senate Republican Policy Committee 2010-2012;; Chief of Staff, Senate Republican Conference 2012-2014;\nSenior Advisor, Senator John Thune 2014",
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 62712,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "MICHAEL",
+        "nickname": null,
+        "middle_name": "J",
+        "last_name": "CATANZARO",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": "Deputy Communications Director, House Science Committee;\nPress Secretary, Rep. Dave Hobson;\nCommunications Director Senate Environment and Public Works;; Associate Director for Policy, White House Council on Environmental Protection;\nAssociate Deputy Administrator - Environmental Protection Agency;; Deputy Staff Director, Senate Environmental & Public Works Committee;\nSenior Policy Advisor, Speaker John Boehner",
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 63838,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "JOHN",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "STIPICEVIC",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": "Intern/Staff Assistant, Majority Whip Roy Blunt, 2003-2006\nFloor Assistant, Republican Whip Roy Blunt, 2007-2008; Floor Assistant, Republican Whip Eric Cantor, 2009-2010\nDirector of Floor Operations, Majority Whip Kevin McCarthy, 2011-2014\nDeputy Chief of Staff for Floor and Member Services, Majority Leader Kevin McCarthy, 2014-2015",
+       "new": true
+      }
+     ],
+     "government_entities": []
+    }
+   ],
+   "conviction_disclosures": [],
+   "foreign_entities": [],
+   "affiliated_organizations": []
+  },
+  {
+   "url": "https://lda.gov/api/v1/filings/c293361f-835e-43b7-b4b2-11eb26498b57/",
+   "filing_uuid": "c293361f-835e-43b7-b4b2-11eb26498b57",
+   "filing_type": "RA",
+   "filing_type_display": "Registration - Amendment",
+   "filing_year": 2017,
+   "filing_period": "first_quarter",
+   "filing_period_display": "1st Quarter (Jan 1 - Mar 31)",
+   "filing_document_url": "https://lda.gov/filings/public/filing/c293361f-835e-43b7-b4b2-11eb26498b57/print/",
+   "filing_document_content_type": "text/html",
+   "income": null,
+   "expenses": null,
+   "expenses_method": null,
+   "expenses_method_display": null,
+   "posted_by_name": "Christopher L. Grant",
+   "dt_posted": "2017-01-03T10:24:13-05:00",
+   "termination_date": null,
+   "registrant_country": "United States of America",
+   "registrant_ppb_country": null,
+   "registrant_address_1": "1320 City Center Drive",
+   "registrant_address_2": "Suite 200",
+   "registrant_different_address": null,
+   "registrant_city": "Carmel",
+   "registrant_state": "IN",
+   "registrant_zip": "46032",
+   "registrant": {
+    "id": 401104212,
+    "url": "https://lda.gov/api/v1/registrants/401104212/",
+    "house_registrant_id": null,
+    "name": "NATIONAL PRECAST CONCRETE ASSOCIATION, INC.",
+    "description": "trade association",
+    "address_1": "1320 City Center Drive",
+    "address_2": "Suite 200",
+    "address_3": null,
+    "address_4": null,
+    "city": "Carmel",
+    "state": "IN",
+    "state_display": "Indiana",
+    "zip": "46032",
+    "country": "US",
+    "country_display": "United States of America",
+    "ppb_country": "US",
+    "ppb_country_display": "United States of America",
+    "contact_name": "ALICE K TIEMANN",
+    "contact_telephone": "+1 317-571-9500",
+    "dt_updated": "2022-07-01T11:51:36.647135-04:00"
+   },
+   "client": {
+    "id": 200967,
+    "url": "https://lda.gov/api/v1/clients/200967/",
+    "client_id": 12,
+    "name": "NATIONAL PRECAST CONCRETE ASSOCIATION, INC.",
+    "general_description": "trade association",
+    "client_government_entity": false,
+    "client_self_select": true,
+    "state": "IN",
+    "state_display": "Indiana",
+    "country": "US",
+    "country_display": "United States of America",
+    "ppb_state": "IN",
+    "ppb_state_display": "Indiana",
+    "ppb_country": "US",
+    "ppb_country_display": "United States of America",
+    "effective_date": "2017-01-03"
+   },
+   "lobbying_activities": [
+    {
+     "general_issue_code": "TRA",
+     "general_issue_code_display": "Transportation",
+     "description": "All construction, transportation and infrastructure-related issues as they relate to the precast concrete products industry, including issues arising with respect to GSA, FHWA, Federal Aviation Administration, U.S. Army Corps of Engineers, and other regulatory agencies.",
+     "foreign_entity_issues": null,
+     "lobbyists": [
+      {
+       "lobbyist": {
+        "id": 64947,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "RICHARD",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "KROLEWSKI",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": null,
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 64980,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "TY",
+        "nickname": null,
+        "middle_name": "E",
+        "last_name": "GABLE",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": null,
+       "new": true
+      }
+     ],
+     "government_entities": []
+    },
+    {
+     "general_issue_code": "ROD",
+     "general_issue_code_display": "Roads/Highway",
+     "description": "All construction, transportation and infrastructure-related issues as they relate to the precast concrete products industry, including issues arising with respect to GSA, FHWA, Federal Aviation Administration, U.S. Army Corps of Engineers, and other regulatory agencies.",
+     "foreign_entity_issues": null,
+     "lobbyists": [
+      {
+       "lobbyist": {
+        "id": 64947,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "RICHARD",
+        "nickname": null,
+        "middle_name": null,
+        "last_name": "KROLEWSKI",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": null,
+       "new": true
+      },
+      {
+       "lobbyist": {
+        "id": 64980,
+        "prefix": null,
+        "prefix_display": null,
+        "first_name": "TY",
+        "nickname": null,
+        "middle_name": "E",
+        "last_name": "GABLE",
+        "suffix": null,
+        "suffix_display": null
+       },
+       "covered_position": null,
+       "new": true
+      }
+     ],
+     "government_entities": []
+    }
+   ],
+   "conviction_disclosures": [],
+   "foreign_entities": [],
+   "affiliated_organizations": []
+  }
+ ]
+}
