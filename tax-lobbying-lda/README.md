@@ -9,7 +9,7 @@ Senate Finance, the Joint Committee on Taxation, Treasury and the IRS), separate
 **in-house** from **outside-firm** lobbying, estimates **spending on tax**, and measures
 how **specific** each disclosure is (bills, code sections, named provisions).
 
-Developed for Paper 2 of the PhD thesis *The Complexity of Control* (Lakshmi Menon,
+Developed by (Lakshmi Menon,
 University College Dublin).
 
 ---
