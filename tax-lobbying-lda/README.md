@@ -17,7 +17,7 @@ University College Dublin).
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/tax-lobbying-lda.git
+git clone https://github.com/<your-username>/Lobbying_LDA_Disclosure.git
 cd tax-lobbying-lda
 pip install -e .                    # installs the `taxlobby` package and its dependencies
 
